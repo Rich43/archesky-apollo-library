@@ -1,4 +1,4 @@
-package com.archesky.common.library.service
+package com.archesky.apollo.library.service
 
 import okhttp3.OkHttpClient
 import java.security.SecureRandom
