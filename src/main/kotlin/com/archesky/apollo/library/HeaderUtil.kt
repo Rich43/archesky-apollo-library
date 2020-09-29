@@ -1,6 +1,6 @@
 @file:Suppress("unused")
 
-package com.archesky.common.library
+package com.archesky.apollo.library
 
 import graphql.kickstart.servlet.context.DefaultGraphQLServletContext
 import graphql.schema.DataFetchingEnvironment
