@@ -3,7 +3,6 @@ import java.lang.System.getenv
 
 plugins {
 	kotlin("jvm") version "1.3.72"
-	kotlin("plugin.spring") version "1.3.72"
 	`maven-publish`
 }
 
